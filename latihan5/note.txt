@@ -1,0 +1,3 @@
+Pengenalan Array
+- Array numeric 
+- Array multi dimensi

@@ -1,0 +1,5 @@
+Pengenalan 
+- Variable Super global
+- Variable Scope 
+- $_GET
+- $_POST

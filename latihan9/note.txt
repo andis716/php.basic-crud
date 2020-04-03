@@ -1,0 +1,1 @@
+Penambahan function untuk koneksi database
